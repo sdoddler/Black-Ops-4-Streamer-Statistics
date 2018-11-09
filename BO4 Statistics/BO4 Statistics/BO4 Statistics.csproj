@@ -7,7 +7,7 @@
     <ProjectGuid>{F3AA7614-6A9E-45FC-8FE8-9577810493D0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>BO4_Statistics</RootNamespace>
-    <AssemblyName>BO4 Statistics</AssemblyName>
+    <AssemblyName>Black Ops 4 Streamer Statistics</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
