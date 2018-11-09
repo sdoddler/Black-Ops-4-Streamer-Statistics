@@ -286,6 +286,8 @@ namespace BO4_Statistics
         private async void UpdateListStats()
         {
             // Download all stat pages first, Incase of any network or API errors, allowing for multiple attempts.
+
+            Toggle_Auto_Refresh.IsEnabled = false;
             Dictionary<string, TypesRefreshed> playersRefreshed = new Dictionary<string, TypesRefreshed>();
 
             foreach (StatToSave stat in statsToSave)
@@ -498,9 +500,11 @@ namespace BO4_Statistics
                         File.WriteAllText(stat.FilePath, stat.TextPrefix + statResult);
                     }
                 }
+
             }
 
-                
+
+            Toggle_Auto_Refresh.IsEnabled = true;
 
         }
 
@@ -782,10 +786,14 @@ namespace BO4_Statistics
 
             if (autoRefresh)
             {
-                AutoRefreshStats();  
+                AutoRefreshStats();
+                RefreshStatus.Background = Brushes.ForestGreen;
             } else
             {
                 RefreshStatus.Text = "OFF";
+
+                RefreshStatus.Background = Brushes.Red;
+
             }
         }
 
@@ -794,6 +802,7 @@ namespace BO4_Statistics
             Log("Refreshing Current Stat List..");
             UpdateListStats();
             refreshCountdown = DateTime.Now.AddSeconds(60);
+            
         }
 
         private void PlayerName__SelectionChanged(object sender, SelectionChangedEventArgs e)
