@@ -1,0 +1,17 @@
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Release\Black Ops 4 Streamer Statistics.exe.config
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Release\Black Ops 4 Streamer Statistics.exe
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Release\Black Ops 4 Streamer Statistics.pdb
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Release\Newtonsoft.Json.dll
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Release\Newtonsoft.Json.xml
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\MainWindow.g.cs
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\App.g.cs
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\Black Ops 4 Streamer Statistics_MarkupCompile.cache
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\Black Ops 4 Streamer Statistics_MarkupCompile.lref
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\MainWindow.baml
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\Black Ops 4 Streamer Statistics.g.resources
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\BO4_Statistics.Properties.Resources.resources
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\BO4 Statistics.csproj.GenerateResource.cache
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\BO4 Statistics.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\BO4 Statistics.csproj.CopyComplete
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\Black Ops 4 Streamer Statistics.exe
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Release\Black Ops 4 Streamer Statistics.pdb

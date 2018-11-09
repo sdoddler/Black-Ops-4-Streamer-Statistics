@@ -16,21 +16,20 @@ C:\Users\stephen.dodd\OneDrive - Department of Education\Github\BO4-Statistics\B
 C:\Users\stephen.dodd\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Newtonsoft.Json.dll
 C:\Users\stephen.dodd\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Newtonsoft.Json.xml
 C:\Users\stephen.dodd\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.csproj.CopyComplete
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\BO4 Statistics.exe.config
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\BO4 Statistics.exe
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\BO4 Statistics.pdb
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Newtonsoft.Json.dll
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Newtonsoft.Json.xml
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\MainWindow.g.cs
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\App.g.cs
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics_MarkupCompile.cache
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics_MarkupCompile.lref
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\MainWindow.baml
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.g.resources
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4_Statistics.Properties.Resources.resources
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.csproj.GenerateResource.Cache
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.csproj.CoreCompileInputs.cache
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.exe
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.pdb
-E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.csprojAssemblyReference.cache
 E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\BO4 Statistics.csproj.CopyComplete
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Black Ops 4 Streamer Statistics.exe.config
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Black Ops 4 Streamer Statistics.exe
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\bin\Debug\Black Ops 4 Streamer Statistics.pdb
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\Black Ops 4 Streamer Statistics_MarkupCompile.cache
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\Black Ops 4 Streamer Statistics_MarkupCompile.lref
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\Black Ops 4 Streamer Statistics.g.resources
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\Black Ops 4 Streamer Statistics.exe
+E:\OneDrive\OneDrive - Department of Education\Github\BO4-Statistics\BO4 Statistics\BO4 Statistics\obj\Debug\Black Ops 4 Streamer Statistics.pdb

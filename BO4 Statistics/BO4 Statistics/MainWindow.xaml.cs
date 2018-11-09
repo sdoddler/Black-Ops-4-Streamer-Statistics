@@ -26,27 +26,7 @@ namespace BO4_Statistics
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /// Can you query a JToken ina dictionary via .Path?
-    /// If so then 1 Dictionary with Display name.
-    ///     Otherwise 2 dictionaries, 1 with aDisplay for Comob and a path to data. And one with the tokens.. Second a list?
-    /// Should be able to do first option but brain power fading.
-    /// 
-
-    /// When Starting Timer, check if SessionStart file exists for each Stat. If not Download Start Session Stats.
-    /// Start Timer
-    ///    Redownload ALL current stats, incase the session was started earlier. (Dont want to reuse OLD currentstats.json files.
-    ///    
-
-        /// Need list for each Player of Stats to get.
-
-        /// On Load
-        ///     > Check what was saved previously.
-        ///     > Load Through Current\Session Start Stats for those.
-        ///     > Download any that are missing
-        ///     > Populate Treeview
-        ///     > Populate Current Stats and playername with last added?
     
-        /// Boolean - Session Started (Whether or not there is a current running session).
     public partial class MainWindow : Window
     {
         string appDataDir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\BO4_Statistics\\";
